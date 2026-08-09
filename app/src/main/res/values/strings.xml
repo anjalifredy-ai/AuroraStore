@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-  ~ Aurora Store
+  ~ RIKKY STORE
   ~  Copyright (C) 2021, Rahul Kumar Patel <whyorean@gmail.com>
   ~  Copyright (C) 2022, The Calyx Institute
   ~  Copyright (C) 2023, grrfe <grrfe@420blaze.it>
@@ -9,7 +9,7 @@
   ~  the Free Software Foundation, either version 2 of the License, or
   ~  (at your option) any later version.
   ~
-  ~  Aurora Store is distributed in the hope that it will be useful,
+  ~  RIKKY STORE is distributed in the hope that it will be useful,
   ~  but WITHOUT ANY WARRANTY; without even the implied warranty of
   ~  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   ~  GNU General Public License for more details.
@@ -19,7 +19,7 @@
   ~
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" translatable="false">"Aurora Store"</string>
+    <string name="app_name" translatable="false">"RIKKY STORE"</string>
     <string name="download_speed_bytes" translatable="false">%1$d B/s</string>
     <string name="download_speed_kb" translatable="false">%1$s KB/s</string>
     <string name="download_speed_mb" translatable="false">%1$s MB/s</string>
